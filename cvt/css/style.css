@@ -14,8 +14,8 @@
     height: 100vh;
     display: flex;
     justify-content: center;
-    overflow-x: hidden;   
-
+    overflow-x: hidden; 
+    background-color: #CC221B;  
 }
 .wrapper{
     width: 1180px;
